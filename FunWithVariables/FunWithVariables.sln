@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunWithVariables", "FunWithVariables.csproj", "{753F3DBD-E97F-42FD-BD49-D2D593FC94D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{753F3DBD-E97F-42FD-BD49-D2D593FC94D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{753F3DBD-E97F-42FD-BD49-D2D593FC94D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{753F3DBD-E97F-42FD-BD49-D2D593FC94D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{753F3DBD-E97F-42FD-BD49-D2D593FC94D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {951BE288-416B-4000-BCD2-F3CB44A97941}
+	EndGlobalSection
+EndGlobal
