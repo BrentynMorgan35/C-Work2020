@@ -14,8 +14,8 @@
         <Button Content="Subtraction" HorizontalAlignment="Left" Margin="74,247,0,0" VerticalAlignment="Top" Height="24" Width="195" Click="Button_Click_1"/>
         <Button Content="Multiplication" HorizontalAlignment="Left" Margin="74,296,0,0" VerticalAlignment="Top" Height="24" Width="195" Click="Button_Click_2"/>
         <Button Content="Division" HorizontalAlignment="Left" Margin="74,343,0,0" VerticalAlignment="Top" Height="24" Width="195" Click="textBox2_Click"/>
-        <Label x:Name="label1" Content="" HorizontalAlignment="Left" Margin="489,194,0,0" VerticalAlignment="Top" Width="70"/>
         <Button Content="Modulus" HorizontalAlignment="Left" Margin="74,386,0,0" VerticalAlignment="Top" Height="22" Width="195" Click="Button_Click_3"/>
+        <Button x:Name="buttonClear" Content="Clear" Margin="477,255,169,142" Click="buttonClear_Click"/>
 
     </Grid>
 </Window>

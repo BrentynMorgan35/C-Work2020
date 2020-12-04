@@ -95,5 +95,14 @@ namespace CS_ASP_088
 
             label.Content = total;
         }
+
+        private void buttonClear_Click(object sender, RoutedEventArgs e)
+        {
+            label.Content = "";
+
+            textBox1.Text = "";
+
+            textBox2.Text = "";
+        }
     }
 }
